@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Python and Rails.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with improving technical skills.
-- 📫 How to reach me: contact to my X : @koto_0728.
+- 📫 How to reach me: contact to my X : @ikotome.
 - 😄 Pronouns: ino♯(sharp)
 - ⚡ Fun fact: X's ID isn't based on my birthday, you know!
 
