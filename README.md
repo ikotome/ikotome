@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning about Python and Rails.
+- 🌱 I’m currently learning about C# and Rails.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with improving technical skills.
-- 📫 How to reach me: contact to my X : @ikotome.
-- 😄 Pronouns: ino♯(sharp)
+- 📫 How to reach me: contact to me : [about.ikotome](https://about.ikoto.me/)
+- 😄 Pronouns: ikotome
 - ⚡ Fun fact: X's ID isn't based on my birthday, you know!
 
 
