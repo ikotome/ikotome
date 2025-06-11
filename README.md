@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 > [!NOTE] 
 > Hey, folks!　（やぁ、皆さん！）
 > I'm using a translator to communicate because I'm　Japanese.If my word sounds strange, I apologize.😔
+>
+> If you look up ikotome, I usually come up.
 > 
 > 私は日本人だから翻訳機を使って会話しているよ。もしも、言葉がおかしかったら、ごめんね。😔
+> ikotomeって調べると、大抵自分が出てくるよ！！色々見ていってね！
 
 I'm still learning, so I plan to update various things, including my profile👍
 
