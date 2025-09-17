@@ -27,4 +27,25 @@ I'm still learning, so I plan to update various things, including my profile👍
 
 私は、まだ技術がないのでProfile含め、これから色々更新するつもりです👍
 
+<p align="left">
+  <a href="https://github.com/ikotome">
+    <img height="20" src="https://komarev.com/ghpvc/?username=ikotome" />
+  </a>
+  <a href="https://github.com/ikotome">
+    <img height="20" src="https://img.shields.io/github/followers/ikotome?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://qiita.com/ikotome">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ikotome/posts.svg" />
+  </a>
+  <a href="https://qiita.com/ikotome">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ikotome/contributions.svg" />
+  </a>
+</p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikotome&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikotome&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ikotome&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikotome&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ikotome&theme=radical&utcOffset=9)
 
