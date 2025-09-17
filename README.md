@@ -49,3 +49,5 @@ I'm still learning, so I plan to update various things, including my profile👍
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikotome&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ikotome&theme=radical&utcOffset=9)
 
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=ikotome&theme=radical)
