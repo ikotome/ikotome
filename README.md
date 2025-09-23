@@ -51,3 +51,5 @@ I'm still learning, so I plan to update various things, including my profile👍
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=ikotome&theme=radical)
+
+## Skill icon
