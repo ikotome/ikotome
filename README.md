@@ -54,8 +54,8 @@ I'm still learning, so I plan to update various things, including my profile👍
 
 ## 　Programming Languges, Frameworks and Tools
 This includes items that were briefly thouched upon in some from priviously.
-<div div style="display: flex; justify-content: center;">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,atom,bash,bootstrap,c,cs,cloudflare,codepen,css,discord,docker,dotnet,figma,gcp,git,github,heroku,html,md,nextjs,opencv,postgres,prometheus,rails,raspberrypi,ruby,sqlite,sentry,svg,twitter,ubuntu,unity,vercel,vscode,windows" />
   </a>
-</div>
+</p>
