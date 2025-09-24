@@ -52,4 +52,10 @@ I'm still learning, so I plan to update various things, including my profile👍
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=ikotome&theme=radical)
 
-## Skill icon
+## 　Programming Languges, Frameworks and Tools
+This includes items that were briefly thouched upon in some from priviously.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,atom,bash,bootstrap,c,cs,cloudflare,codepen,css,discord,docker,dotnet,figma,gcp,git,github,heroku,html,md,nextjs,opencv,postgres,prometheus,rails,raspberrypi,ruby,sqlite,sentry,svg,twitter,ubuntu,unity,vercel,vscode,windows" />
+  </a>
+</p>
